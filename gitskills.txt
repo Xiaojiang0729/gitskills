@@ -23,3 +23,5 @@ git checkout -- filename可以丢弃工作区的修改
 合并某分支到当前分支：git merge <name>
 
 删除分支：git branch -d <name>
+
+git push -u origin master
